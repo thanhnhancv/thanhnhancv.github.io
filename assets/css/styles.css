@@ -435,7 +435,7 @@ body.light-theme {
 .skills__content {
   background-color: var(--container-color);
   padding: 1.5rem;
-  border-radius: 1.25rems;
+  border-radius: 1.25rem;
 }
 .skills__title {
   font-size: var(--normal-font-size);
@@ -479,7 +479,7 @@ body.light-theme {
 }
 .services__card {
   background-color: var(--container-color);
-  padding: 3rem 1.5rem 1.5rem;
+  padding: 2rem 1.5rem 1.5rem;
   border-radius: 1rem;
 }
 .services__title {
